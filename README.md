@@ -1,0 +1,1 @@
+Tic-Tac-Toe is a game where two players take turns marking a 3x3 grid with Xs and Os. The goal is to be the first to get three of your symbols in a row, either horizontally, vertically, or diagonally. The game ends when someone wins or if the grid fills up without a winner, resulting in a draw.
